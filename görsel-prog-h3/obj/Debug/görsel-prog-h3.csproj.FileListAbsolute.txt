@@ -1,0 +1,12 @@
+C:\Users\Pau\Desktop\görsel-prog-h3\bin\Debug\görsel-prog-h3.exe.config
+C:\Users\Pau\Desktop\görsel-prog-h3\bin\Debug\görsel-prog-h3.exe
+C:\Users\Pau\Desktop\görsel-prog-h3\bin\Debug\görsel-prog-h3.pdb
+C:\Users\Pau\Desktop\görsel-prog-h3\obj\Debug\görsel-prog-h3.csproj.AssemblyReference.cache
+C:\Users\Pau\Desktop\görsel-prog-h3\obj\Debug\görsel-prog-h3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pau\Desktop\görsel-prog-h3\obj\Debug\görsel_prog_h3.Form1.resources
+C:\Users\Pau\Desktop\görsel-prog-h3\obj\Debug\görsel_prog_h3.Form2.resources
+C:\Users\Pau\Desktop\görsel-prog-h3\obj\Debug\görsel_prog_h3.Properties.Resources.resources
+C:\Users\Pau\Desktop\görsel-prog-h3\obj\Debug\görsel-prog-h3.csproj.GenerateResource.cache
+C:\Users\Pau\Desktop\görsel-prog-h3\obj\Debug\görsel-prog-h3.csproj.CoreCompileInputs.cache
+C:\Users\Pau\Desktop\görsel-prog-h3\obj\Debug\görsel-prog-h3.exe
+C:\Users\Pau\Desktop\görsel-prog-h3\obj\Debug\görsel-prog-h3.pdb
