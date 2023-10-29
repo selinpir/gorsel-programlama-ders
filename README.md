@@ -1,4 +1,8 @@
 # gorsel-programlama-ders
 
 
-- görsel programlama dersi 3. hafta pizza sipariş uygulaması
+- Görsel Programlama Dersi (C#) :
+- Uygulama 1- Pizza Sipariş Uygulaması (Formlar ve Özellikler)
+- Uygulama 2- Hırdavatçıdan Sipariş Uygulaması (Mesaj ve Dialog Pencereleri)
+
+ 
