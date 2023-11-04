@@ -1,0 +1,33 @@
+C:\Users\Pau\Desktop\Ders-II\Ders-II\obj\Debug\net6.0-windows\Ders_II.Form1.resources
+C:\Users\Pau\Desktop\Ders-II\Ders-II\obj\Debug\net6.0-windows\Ders-II.csproj.GenerateResource.cache
+C:\Users\Pau\Desktop\Ders-II\Ders-II\obj\Debug\net6.0-windows\Ders-II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pau\Desktop\Ders-II\Ders-II\obj\Debug\net6.0-windows\Ders-II.AssemblyInfoInputs.cache
+C:\Users\Pau\Desktop\Ders-II\Ders-II\obj\Debug\net6.0-windows\Ders-II.AssemblyInfo.cs
+C:\Users\Pau\Desktop\Ders-II\Ders-II\obj\Debug\net6.0-windows\Ders-II.csproj.CoreCompileInputs.cache
+C:\Users\Pau\Desktop\Ders-II\Ders-II\bin\Debug\net6.0-windows\Ders-II.exe
+C:\Users\Pau\Desktop\Ders-II\Ders-II\bin\Debug\net6.0-windows\Ders-II.deps.json
+C:\Users\Pau\Desktop\Ders-II\Ders-II\bin\Debug\net6.0-windows\Ders-II.runtimeconfig.json
+C:\Users\Pau\Desktop\Ders-II\Ders-II\bin\Debug\net6.0-windows\Ders-II.dll
+C:\Users\Pau\Desktop\Ders-II\Ders-II\bin\Debug\net6.0-windows\Ders-II.pdb
+C:\Users\Pau\Desktop\Ders-II\Ders-II\obj\Debug\net6.0-windows\Ders-II.dll
+C:\Users\Pau\Desktop\Ders-II\Ders-II\obj\Debug\net6.0-windows\refint\Ders-II.dll
+C:\Users\Pau\Desktop\Ders-II\Ders-II\obj\Debug\net6.0-windows\Ders-II.pdb
+C:\Users\Pau\Desktop\Ders-II\Ders-II\obj\Debug\net6.0-windows\Ders-II.genruntimeconfig.cache
+C:\Users\Pau\Desktop\Ders-II\Ders-II\obj\Debug\net6.0-windows\ref\Ders-II.dll
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\hırdavat\Ders-II\Ders-II\bin\Debug\net6.0-windows\Ders-II.exe
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\hırdavat\Ders-II\Ders-II\bin\Debug\net6.0-windows\Ders-II.deps.json
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\hırdavat\Ders-II\Ders-II\bin\Debug\net6.0-windows\Ders-II.runtimeconfig.json
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\hırdavat\Ders-II\Ders-II\bin\Debug\net6.0-windows\Ders-II.dll
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\hırdavat\Ders-II\Ders-II\bin\Debug\net6.0-windows\Ders-II.pdb
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\hırdavat\Ders-II\Ders-II\obj\Debug\net6.0-windows\Ders_II.Form1.resources
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\hırdavat\Ders-II\Ders-II\obj\Debug\net6.0-windows\Ders_II.Properties.Resources.resources
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\hırdavat\Ders-II\Ders-II\obj\Debug\net6.0-windows\Ders-II.csproj.GenerateResource.cache
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\hırdavat\Ders-II\Ders-II\obj\Debug\net6.0-windows\Ders-II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\hırdavat\Ders-II\Ders-II\obj\Debug\net6.0-windows\Ders-II.AssemblyInfoInputs.cache
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\hırdavat\Ders-II\Ders-II\obj\Debug\net6.0-windows\Ders-II.AssemblyInfo.cs
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\hırdavat\Ders-II\Ders-II\obj\Debug\net6.0-windows\Ders-II.csproj.CoreCompileInputs.cache
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\hırdavat\Ders-II\Ders-II\obj\Debug\net6.0-windows\Ders-II.dll
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\hırdavat\Ders-II\Ders-II\obj\Debug\net6.0-windows\refint\Ders-II.dll
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\hırdavat\Ders-II\Ders-II\obj\Debug\net6.0-windows\Ders-II.pdb
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\hırdavat\Ders-II\Ders-II\obj\Debug\net6.0-windows\Ders-II.genruntimeconfig.cache
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\hırdavat\Ders-II\Ders-II\obj\Debug\net6.0-windows\ref\Ders-II.dll
