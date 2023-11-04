@@ -1,0 +1,33 @@
+C:\Users\Pau\Desktop\Uygulama-I\Uygulama-I\bin\Debug\net6.0-windows\Uygulama-I.exe
+C:\Users\Pau\Desktop\Uygulama-I\Uygulama-I\bin\Debug\net6.0-windows\Uygulama-I.deps.json
+C:\Users\Pau\Desktop\Uygulama-I\Uygulama-I\bin\Debug\net6.0-windows\Uygulama-I.runtimeconfig.json
+C:\Users\Pau\Desktop\Uygulama-I\Uygulama-I\bin\Debug\net6.0-windows\Uygulama-I.dll
+C:\Users\Pau\Desktop\Uygulama-I\Uygulama-I\bin\Debug\net6.0-windows\Uygulama-I.pdb
+C:\Users\Pau\Desktop\Uygulama-I\Uygulama-I\obj\Debug\net6.0-windows\Uygulama_I.Form1.resources
+C:\Users\Pau\Desktop\Uygulama-I\Uygulama-I\obj\Debug\net6.0-windows\Uygulama-I.csproj.GenerateResource.cache
+C:\Users\Pau\Desktop\Uygulama-I\Uygulama-I\obj\Debug\net6.0-windows\Uygulama-I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pau\Desktop\Uygulama-I\Uygulama-I\obj\Debug\net6.0-windows\Uygulama-I.AssemblyInfoInputs.cache
+C:\Users\Pau\Desktop\Uygulama-I\Uygulama-I\obj\Debug\net6.0-windows\Uygulama-I.AssemblyInfo.cs
+C:\Users\Pau\Desktop\Uygulama-I\Uygulama-I\obj\Debug\net6.0-windows\Uygulama-I.csproj.CoreCompileInputs.cache
+C:\Users\Pau\Desktop\Uygulama-I\Uygulama-I\obj\Debug\net6.0-windows\Uygulama-I.dll
+C:\Users\Pau\Desktop\Uygulama-I\Uygulama-I\obj\Debug\net6.0-windows\refint\Uygulama-I.dll
+C:\Users\Pau\Desktop\Uygulama-I\Uygulama-I\obj\Debug\net6.0-windows\Uygulama-I.pdb
+C:\Users\Pau\Desktop\Uygulama-I\Uygulama-I\obj\Debug\net6.0-windows\Uygulama-I.genruntimeconfig.cache
+C:\Users\Pau\Desktop\Uygulama-I\Uygulama-I\obj\Debug\net6.0-windows\ref\Uygulama-I.dll
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\pizza\Uygulama-I\bin\Debug\net6.0-windows\Uygulama-I.exe
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\pizza\Uygulama-I\bin\Debug\net6.0-windows\Uygulama-I.deps.json
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\pizza\Uygulama-I\bin\Debug\net6.0-windows\Uygulama-I.runtimeconfig.json
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\pizza\Uygulama-I\bin\Debug\net6.0-windows\Uygulama-I.dll
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\pizza\Uygulama-I\bin\Debug\net6.0-windows\Uygulama-I.pdb
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\pizza\Uygulama-I\obj\Debug\net6.0-windows\Uygulama_I.Form1.resources
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\pizza\Uygulama-I\obj\Debug\net6.0-windows\Uygulama_I.Properties.Resources.resources
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\pizza\Uygulama-I\obj\Debug\net6.0-windows\Uygulama-I.csproj.GenerateResource.cache
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\pizza\Uygulama-I\obj\Debug\net6.0-windows\Uygulama-I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\pizza\Uygulama-I\obj\Debug\net6.0-windows\Uygulama-I.AssemblyInfoInputs.cache
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\pizza\Uygulama-I\obj\Debug\net6.0-windows\Uygulama-I.AssemblyInfo.cs
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\pizza\Uygulama-I\obj\Debug\net6.0-windows\Uygulama-I.csproj.CoreCompileInputs.cache
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\pizza\Uygulama-I\obj\Debug\net6.0-windows\Uygulama-I.dll
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\pizza\Uygulama-I\obj\Debug\net6.0-windows\refint\Uygulama-I.dll
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\pizza\Uygulama-I\obj\Debug\net6.0-windows\Uygulama-I.pdb
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\pizza\Uygulama-I\obj\Debug\net6.0-windows\Uygulama-I.genruntimeconfig.cache
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\pizza\Uygulama-I\obj\Debug\net6.0-windows\ref\Uygulama-I.dll
