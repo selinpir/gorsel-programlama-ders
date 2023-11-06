@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "23GorselProg-III-NO/1.0.0": {
+        "runtime": {
+          "23GorselProg-III-NO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "23GorselProg-III-NO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,32 @@
+C:\Users\Pau\Desktop\23GorselProg-III-NO\23GorselProg-III-NO\bin\Debug\net6.0-windows\23GorselProg-III-NO.exe
+C:\Users\Pau\Desktop\23GorselProg-III-NO\23GorselProg-III-NO\bin\Debug\net6.0-windows\23GorselProg-III-NO.deps.json
+C:\Users\Pau\Desktop\23GorselProg-III-NO\23GorselProg-III-NO\bin\Debug\net6.0-windows\23GorselProg-III-NO.runtimeconfig.json
+C:\Users\Pau\Desktop\23GorselProg-III-NO\23GorselProg-III-NO\bin\Debug\net6.0-windows\23GorselProg-III-NO.dll
+C:\Users\Pau\Desktop\23GorselProg-III-NO\23GorselProg-III-NO\bin\Debug\net6.0-windows\23GorselProg-III-NO.pdb
+C:\Users\Pau\Desktop\23GorselProg-III-NO\23GorselProg-III-NO\obj\Debug\net6.0-windows\_23GorselProg_III_NO.Form1.resources
+C:\Users\Pau\Desktop\23GorselProg-III-NO\23GorselProg-III-NO\obj\Debug\net6.0-windows\23GorselProg-III-NO.csproj.GenerateResource.cache
+C:\Users\Pau\Desktop\23GorselProg-III-NO\23GorselProg-III-NO\obj\Debug\net6.0-windows\23GorselProg-III-NO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pau\Desktop\23GorselProg-III-NO\23GorselProg-III-NO\obj\Debug\net6.0-windows\23GorselProg-III-NO.AssemblyInfoInputs.cache
+C:\Users\Pau\Desktop\23GorselProg-III-NO\23GorselProg-III-NO\obj\Debug\net6.0-windows\23GorselProg-III-NO.AssemblyInfo.cs
+C:\Users\Pau\Desktop\23GorselProg-III-NO\23GorselProg-III-NO\obj\Debug\net6.0-windows\23GorselProg-III-NO.csproj.CoreCompileInputs.cache
+C:\Users\Pau\Desktop\23GorselProg-III-NO\23GorselProg-III-NO\obj\Debug\net6.0-windows\23GorselProg-III-NO.dll
+C:\Users\Pau\Desktop\23GorselProg-III-NO\23GorselProg-III-NO\obj\Debug\net6.0-windows\refint\23GorselProg-III-NO.dll
+C:\Users\Pau\Desktop\23GorselProg-III-NO\23GorselProg-III-NO\obj\Debug\net6.0-windows\23GorselProg-III-NO.pdb
+C:\Users\Pau\Desktop\23GorselProg-III-NO\23GorselProg-III-NO\obj\Debug\net6.0-windows\23GorselProg-III-NO.genruntimeconfig.cache
+C:\Users\Pau\Desktop\23GorselProg-III-NO\23GorselProg-III-NO\obj\Debug\net6.0-windows\ref\23GorselProg-III-NO.dll
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\personel izin örneği\23GorselProg-III-NO\23GorselProg-III-NO\bin\Debug\net6.0-windows\23GorselProg-III-NO.exe
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\personel izin örneği\23GorselProg-III-NO\23GorselProg-III-NO\bin\Debug\net6.0-windows\23GorselProg-III-NO.deps.json
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\personel izin örneği\23GorselProg-III-NO\23GorselProg-III-NO\bin\Debug\net6.0-windows\23GorselProg-III-NO.runtimeconfig.json
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\personel izin örneği\23GorselProg-III-NO\23GorselProg-III-NO\bin\Debug\net6.0-windows\23GorselProg-III-NO.dll
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\personel izin örneği\23GorselProg-III-NO\23GorselProg-III-NO\bin\Debug\net6.0-windows\23GorselProg-III-NO.pdb
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\personel izin örneği\23GorselProg-III-NO\23GorselProg-III-NO\obj\Debug\net6.0-windows\_23GorselProg_III_NO.Form1.resources
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\personel izin örneği\23GorselProg-III-NO\23GorselProg-III-NO\obj\Debug\net6.0-windows\23GorselProg-III-NO.csproj.GenerateResource.cache
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\personel izin örneği\23GorselProg-III-NO\23GorselProg-III-NO\obj\Debug\net6.0-windows\23GorselProg-III-NO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\personel izin örneği\23GorselProg-III-NO\23GorselProg-III-NO\obj\Debug\net6.0-windows\23GorselProg-III-NO.AssemblyInfoInputs.cache
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\personel izin örneği\23GorselProg-III-NO\23GorselProg-III-NO\obj\Debug\net6.0-windows\23GorselProg-III-NO.AssemblyInfo.cs
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\personel izin örneği\23GorselProg-III-NO\23GorselProg-III-NO\obj\Debug\net6.0-windows\23GorselProg-III-NO.csproj.CoreCompileInputs.cache
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\personel izin örneği\23GorselProg-III-NO\23GorselProg-III-NO\obj\Debug\net6.0-windows\23GorselProg-III-NO.dll
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\personel izin örneği\23GorselProg-III-NO\23GorselProg-III-NO\obj\Debug\net6.0-windows\refint\23GorselProg-III-NO.dll
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\personel izin örneği\23GorselProg-III-NO\23GorselProg-III-NO\obj\Debug\net6.0-windows\23GorselProg-III-NO.pdb
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\personel izin örneği\23GorselProg-III-NO\23GorselProg-III-NO\obj\Debug\net6.0-windows\23GorselProg-III-NO.genruntimeconfig.cache
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\personel izin örneği\23GorselProg-III-NO\23GorselProg-III-NO\obj\Debug\net6.0-windows\ref\23GorselProg-III-NO.dll
