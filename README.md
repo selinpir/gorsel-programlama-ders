@@ -9,6 +9,6 @@
 - Uygulama 2- Hırdavatçıdan Sipariş Uygulaması (Mesaj ve Dialog Pencereleri)
 ![1](https://github.com/selinpir/gorsel-programlama-ders/assets/113732977/1fa5098a-00c3-47bc-83cb-fe06f101bc5f)
 
- -Uygulama 3- Personel İzin Örneği
+- Uygulama 3- Personel İzin Örneği
  ![Ekran görüntüsü 2023-11-06 215740](https://github.com/selinpir/gorsel-programlama-ders/assets/113732977/098bb63a-1972-4af0-8d2e-eff95bd2f29b)
 
