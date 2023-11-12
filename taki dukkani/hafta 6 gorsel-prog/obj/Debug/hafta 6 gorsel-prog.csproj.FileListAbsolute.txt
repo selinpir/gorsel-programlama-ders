@@ -1,0 +1,20 @@
+C:\Users\selin\source\repos\hafta 6 gorsel-prog\hafta 6 gorsel-prog\obj\Debug\hafta 6 gorsel-prog.csproj.AssemblyReference.cache
+C:\Users\selin\source\repos\hafta 6 gorsel-prog\hafta 6 gorsel-prog\obj\Debug\hafta_6_gorsel_prog.Form1.resources
+C:\Users\selin\source\repos\hafta 6 gorsel-prog\hafta 6 gorsel-prog\obj\Debug\hafta_6_gorsel_prog.Properties.Resources.resources
+C:\Users\selin\source\repos\hafta 6 gorsel-prog\hafta 6 gorsel-prog\obj\Debug\hafta 6 gorsel-prog.csproj.GenerateResource.cache
+C:\Users\selin\source\repos\hafta 6 gorsel-prog\hafta 6 gorsel-prog\obj\Debug\hafta 6 gorsel-prog.csproj.CoreCompileInputs.cache
+C:\Users\selin\source\repos\hafta 6 gorsel-prog\hafta 6 gorsel-prog\bin\Debug\hafta 6 gorsel-prog.exe.config
+C:\Users\selin\source\repos\hafta 6 gorsel-prog\hafta 6 gorsel-prog\bin\Debug\hafta 6 gorsel-prog.exe
+C:\Users\selin\source\repos\hafta 6 gorsel-prog\hafta 6 gorsel-prog\bin\Debug\hafta 6 gorsel-prog.pdb
+C:\Users\selin\source\repos\hafta 6 gorsel-prog\hafta 6 gorsel-prog\obj\Debug\hafta 6 gorsel-prog.exe
+C:\Users\selin\source\repos\hafta 6 gorsel-prog\hafta 6 gorsel-prog\obj\Debug\hafta 6 gorsel-prog.pdb
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\hafta 6 gorsel-prog\hafta 6 gorsel-prog\bin\Debug\hafta 6 gorsel-prog.exe.config
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\hafta 6 gorsel-prog\hafta 6 gorsel-prog\bin\Debug\hafta 6 gorsel-prog.exe
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\hafta 6 gorsel-prog\hafta 6 gorsel-prog\bin\Debug\hafta 6 gorsel-prog.pdb
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\hafta 6 gorsel-prog\hafta 6 gorsel-prog\obj\Debug\hafta 6 gorsel-prog.csproj.AssemblyReference.cache
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\hafta 6 gorsel-prog\hafta 6 gorsel-prog\obj\Debug\hafta_6_gorsel_prog.Form1.resources
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\hafta 6 gorsel-prog\hafta 6 gorsel-prog\obj\Debug\hafta_6_gorsel_prog.Properties.Resources.resources
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\hafta 6 gorsel-prog\hafta 6 gorsel-prog\obj\Debug\hafta 6 gorsel-prog.csproj.GenerateResource.cache
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\hafta 6 gorsel-prog\hafta 6 gorsel-prog\obj\Debug\hafta 6 gorsel-prog.csproj.CoreCompileInputs.cache
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\hafta 6 gorsel-prog\hafta 6 gorsel-prog\obj\Debug\hafta 6 gorsel-prog.exe
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\hafta 6 gorsel-prog\hafta 6 gorsel-prog\obj\Debug\hafta 6 gorsel-prog.pdb
