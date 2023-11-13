@@ -12,3 +12,5 @@
 - Uygulama 3- Personel İzin Örneği
  ![Ekran görüntüsü 2023-11-06 215740](https://github.com/selinpir/gorsel-programlama-ders/assets/113732977/098bb63a-1972-4af0-8d2e-eff95bd2f29b)
 
+- Uygulama 4- LEDA SHOP takı dükkanı
+![image](https://github.com/selinpir/gorsel-programlama-ders/assets/113732977/07578287-8011-4e21-9566-927fbccec778)
