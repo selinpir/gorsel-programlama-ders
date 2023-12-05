@@ -14,3 +14,6 @@
 
 - Uygulama 4- LEDA SHOP takı dükkanı
 
+  
+- Uygulama 5- Sayı Tahmin Bilmece
+
