@@ -1,0 +1,10 @@
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\sayıtahmin-c#\sayıtahmin-c#\bin\Debug\sayıtahmin-c#.exe.config
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\sayıtahmin-c#\sayıtahmin-c#\bin\Debug\sayıtahmin-c#.exe
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\sayıtahmin-c#\sayıtahmin-c#\bin\Debug\sayıtahmin-c#.pdb
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\sayıtahmin-c#\sayıtahmin-c#\obj\Debug\sayıtahmin-c#.csproj.AssemblyReference.cache
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\sayıtahmin-c#\sayıtahmin-c#\obj\Debug\sayıtahmin_c_.Form1.resources
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\sayıtahmin-c#\sayıtahmin-c#\obj\Debug\sayıtahmin_c_.Properties.Resources.resources
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\sayıtahmin-c#\sayıtahmin-c#\obj\Debug\sayıtahmin-c#.csproj.GenerateResource.cache
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\sayıtahmin-c#\sayıtahmin-c#\obj\Debug\sayıtahmin-c#.csproj.CoreCompileInputs.cache
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\sayıtahmin-c#\sayıtahmin-c#\obj\Debug\sayıtahmin-c#.exe
+C:\Users\selin\OneDrive\Masaüstü\NEW IT\PAU-DERS-NOT\GÖRSEL PROGRAMLAMA\sayıtahmin-c#\sayıtahmin-c#\obj\Debug\sayıtahmin-c#.pdb

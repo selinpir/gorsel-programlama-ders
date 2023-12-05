@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D35AC751-788B-46A2-BE08-9B4EAA1CA58A}</ProjectGuid>
+    <ProjectGuid>{F9A423FE-1FB8-4887-AF59-9AE0CED80A8C}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>hafta_7</RootNamespace>
-    <AssemblyName>hafta 7</AssemblyName>
+    <RootNamespace>sayıtahmin_c_</RootNamespace>
+    <AssemblyName>sayıtahmin-c#</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

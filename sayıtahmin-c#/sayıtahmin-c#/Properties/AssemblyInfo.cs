@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("hafta 7")]
+[assembly: AssemblyTitle("sayıtahmin-c#")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("hafta 7")]
+[assembly: AssemblyProduct("sayıtahmin-c#")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("d35ac751-788b-46a2-be08-9b4eaa1ca58a")]
+[assembly: Guid("f9a423fe-1fb8-4887-af59-9ae0ced80a8c")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace hafta_7.Properties
+namespace sayıtahmin_c_.Properties
 {
 
 

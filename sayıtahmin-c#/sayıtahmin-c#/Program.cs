@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace hafta_7
+namespace sayıtahmin_c_
 {
     internal static class Program
     {
