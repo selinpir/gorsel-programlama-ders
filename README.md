@@ -3,14 +3,14 @@
 *** 2023-2024 güz döneminde PAÜ YBS seçmeli Görsel Programlama dersinde ele alınan konular ve uygulamalardan oluşturulan bir repo mevcuttur. ***
 - Görsel Programlama Dersi (C#) :
 - Uygulama 1- Pizza Sipariş Uygulaması (Formlar ve Özellikler)
-![Ekran görüntüsü 2023-11-04 150417](https://github.com/selinpir/gorsel-programlama-ders/assets/113732977/651baef3-dbf4-4b15-9d47-6eba462f0d79)
+
 
 
 - Uygulama 2- Hırdavatçıdan Sipariş Uygulaması (Mesaj ve Dialog Pencereleri)
-![1](https://github.com/selinpir/gorsel-programlama-ders/assets/113732977/1fa5098a-00c3-47bc-83cb-fe06f101bc5f)
+
 
 - Uygulama 3- Personel İzin Örneği
- ![Ekran görüntüsü 2023-11-06 215740](https://github.com/selinpir/gorsel-programlama-ders/assets/113732977/098bb63a-1972-4af0-8d2e-eff95bd2f29b)
+
 
 - Uygulama 4- LEDA SHOP takı dükkanı
-![image](https://github.com/selinpir/gorsel-programlama-ders/assets/113732977/07578287-8011-4e21-9566-927fbccec778)
+
